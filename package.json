@@ -1,10 +1,10 @@
 {
-  "name": "ull-shape-triangle-nestor-gm",
+  "name": "@nestor-gm/ull-shape-triangle-nestor-gm",
   "version": "1.0.0",
   "description": "ull shape triangle",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+     "test": "./node_modules/mocha/bin/mocha --require should"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/ULL-ESIT-DSI-1617/ull-shape-triangle-nestor-gm/issues"
   },
-  "homepage": "https://github.com/ULL-ESIT-DSI-1617/ull-shape-triangle-nestor-gm#readme"
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/ull-shape-triangle-nestor-gm#readme",
+  "dependencies": {
+    "@nestor-gm/evalua-shape-nestor-gm": "^1.0.0",
+    "gulp-shell": "^0.6.3",
+    "mocha": "^3.2.0",
+    "should": "^11.2.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
