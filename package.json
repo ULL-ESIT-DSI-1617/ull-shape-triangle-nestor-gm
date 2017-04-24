@@ -1,0 +1,19 @@
+{
+  "name": "ull-shape-triangle-nestor-gm",
+  "version": "1.0.0",
+  "description": "ull shape triangle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-DSI-1617/ull-shape-triangle-nestor-gm.git"
+  },
+  "author": "nestor garcia moreno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DSI-1617/ull-shape-triangle-nestor-gm/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/ull-shape-triangle-nestor-gm#readme"
+}
